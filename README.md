@@ -6,15 +6,13 @@
 
 ---
 
-[![zmd9220's github stat](https://github-readme-stats.vercel.app/api?username=zmd9220)](https://github.com/anuraghazra/github-readme-stats)
+![zmd9220's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmd9220&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmd9220)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-### 
 
-### 
 
 ### 알고리즘 
 
