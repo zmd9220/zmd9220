@@ -21,10 +21,10 @@
 
 #### SVN
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
 
 #### IDE
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm&logoColor=007ACC)&nbsp;
 
 
 
@@ -53,9 +53,8 @@
 
 ## Github Stats
 
-![zmd9220's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmd9220&count_private=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zmd9220&count_private=true"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmd9220">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmd9220)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
